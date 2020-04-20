@@ -7,7 +7,6 @@ import java.lang.annotation.*;
  * @Date: 2020/2/7 19:42
  * @Desc:
  */
-//@Target(ElementType.METHOD)
 @Target(ElementType.PARAMETER)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented

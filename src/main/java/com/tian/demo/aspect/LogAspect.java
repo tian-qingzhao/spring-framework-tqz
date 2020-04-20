@@ -15,7 +15,6 @@ import lombok.extern.slf4j.Slf4j;
 @Service
 public class LogAspect {
 
-//    @PointCut("public .* com.tian.service.*ServiceImpl..*(.*)")
     @PointCut("public .* com.tian.demo.service..*ServiceImpl..*(.*)")
     public void pointCut(){
 

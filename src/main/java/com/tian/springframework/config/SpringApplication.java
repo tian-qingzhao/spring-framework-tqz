@@ -4,10 +4,6 @@ import com.tian.springframework.webmvc.servlet.DispatcherServlet;
 import org.apache.catalina.Context;
 import org.apache.catalina.startup.Tomcat;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Properties;
-
 /**
  * author: tian
  * date: 2020-1-15 21:05
