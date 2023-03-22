@@ -68,7 +68,7 @@
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-catalina</artifactId>
             <!--            <version>9.0.30</version>-->
-            <version>8.5.43</version>
+            <version>8.5.86</version>
         </dependency>
         <!--tomcat对jsp支持-->
         <dependency>
